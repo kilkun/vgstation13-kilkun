@@ -1,0 +1,9 @@
+// BEGIN_INTERNALS
+/*
+MAP_ICON_TYPE: 0
+WINDOW: maps\tgstation.dmm;code\modules\events\event_dynamic.dm;code\game\gamemodes\objective.dm;code\modules\admin\admin.dm;code\modules\admin\verbs\one_click_antag.dm;code\modules\admin\topic.dm;code\game\machinery\camera\tracking.dm;code\modules\mob\living\silicon\mommi\mommi.dm;code\modules\mob\living\silicon\robot\robot.dm;code\modules\mob\living\carbon\human\death.dm;code\modules\mob\living\carbon\human\human.dm;code\game\machinery\computer\ai_core.dm;code\modules\reagents\reagent_containers\food\drinks.dm;code\modules\reagents\reagent_containers\glass.dm;code\modules\power\cell.dm;code\modules\power\apc.dm;code\modules\research\rdconsole.dm;code\modules\research\server.dm;code\game\mecha\mecha.dm;code\datums\datumvars.dm;code\modules\admin\verbs\randomverbs.dm;code\modules\admin\admin_verbs.dm;code\game\machinery\computer\aifixer.dm;code\modules\mob\living\silicon\ai\ai.dm;code\modules\mob\living\carbon\human\life.dm;code\datums\mind.dm
+DIR: code code\datums code\datums\spells code\game code\game\gamemodes code\game\machinery code\game\machinery\camera code\game\machinery\computer code\game\mecha code\modules code\modules\admin code\modules\admin\verbs code\modules\events code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\mob\living\silicon code\modules\mob\living\silicon\ai code\modules\mob\living\silicon\mommi code\modules\mob\living\silicon\robot code\modules\power code\modules\reagents code\modules\reagents\reagent_containers code\modules\reagents\reagent_containers\food code\modules\research 
+FILE: code\modules\events\event_dynamic.dm
+AUTO_FILE_DIR: ON
+*/
+// END_INTERNALS
